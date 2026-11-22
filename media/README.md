@@ -1,0 +1,1 @@
+This folder contains an example of processing input.wav (transcribing, encrypting and decrypting). The input file comes from this [link](https://en.wikipedia.org/wiki/File:George_W._Bush%27s_weekly_radio_address_(November_1,_2008).oga).
